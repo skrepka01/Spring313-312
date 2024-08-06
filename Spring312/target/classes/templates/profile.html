@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form>
+  <th:block th:each="role : ${roles}">
+    <h1 th:text="${username}"></h1>
+
+    <h1 th:text="${role}"></h1>
+  </th:block>
+</form>
+<br>
+<form action="/logout">
+    <button type="submit">Выйти из аккаунта</button>
+</form>
+</body>
+</html>

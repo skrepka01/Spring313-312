@@ -1,0 +1,5 @@
+ru\itmentor\spring\boot_security\demo\SpringBootSecurityDemoApplication.class
+ru\itmentor\spring\boot_security\demo\configs\MvcConfig.class
+ru\itmentor\spring\boot_security\demo\configs\AppConfig.class
+ru\itmentor\spring\boot_security\demo\configs\SuccessUserHandler.class
+ru\itmentor\spring\boot_security\demo\configs\WebSecurityConfig.class
